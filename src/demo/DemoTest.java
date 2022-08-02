@@ -10,8 +10,8 @@ public class DemoTest {
 		System.out.println("2nd push...");
 
 		System.out.println("GO G2!!!!!!");
-		
-		System.out.println("G2 IS THE BEST TEAM!!!!");
+		System.out.println("G1 IS THE BEST......... AND we don't like Spider Man");
+			
 
 	}
 
