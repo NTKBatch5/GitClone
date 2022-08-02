@@ -1,6 +1,10 @@
 package demo;
 
 public class DemoTest {
+	
+	public static void g7() {
+		
+	}
 
 	public static void main(String[] args) {
 
