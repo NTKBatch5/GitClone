@@ -11,10 +11,8 @@ public class DemoTest {
 
 		System.out.println("GO G2!!!!!!");
 
-		System.out.println("G2 IS THE BEST TEAM!!!!");
-
-		System.out.println("We are hppy to have Prajota as a scrum Master!! !!!!!!");
-		System.out.println("Best scrum Master!! !!!!!!");
+		System.out.println("G1 IS THE BEST......... AND we don't like Spider Man");
+		System.out.println("whoever deleted GO G2! my middle finger");
 
 	}
 
