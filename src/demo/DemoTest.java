@@ -8,5 +8,9 @@ public class DemoTest {
 		System.out.println("Step something out of a lot");
 
 	}
+	
+	public void add(int a, int b) {
+		System.out.println(a+b);
+	}
 
 }
