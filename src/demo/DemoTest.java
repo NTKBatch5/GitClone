@@ -3,18 +3,9 @@ package demo;
 public class DemoTest {
 
 	public static void main(String[] args) {
-<<<<<<< HEAD
-		
-		System.out.println("Test...");
-	
-	System.out.println("G6 YAY");
-	
-}
-=======
 
-	 
+	 System.out.println("G1 is the BEST..............");
 
 	}
->>>>>>> branch 'master' of https://github.com/NTKBatch5/GitClone.git
 
 }
