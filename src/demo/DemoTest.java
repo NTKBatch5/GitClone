@@ -22,6 +22,9 @@ public class DemoTest {
 	
 	public void divide(int a, int b) {
 		System.out.println(a/b);
+		
+		
+		System.err.println("G7...");
 	}
 
 	//random code.....
