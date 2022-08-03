@@ -24,7 +24,7 @@ public class DemoTest {
 		System.out.println(a/b);
 		
 		
-		System.err.println("G7...");
+		System.out.println("G7...");
 	}
 
 	//random code.....
