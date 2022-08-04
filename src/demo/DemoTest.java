@@ -12,7 +12,7 @@ public class DemoTest {
 		System.out.println(num); //added this line
 		
 		//from gitHUB
-		//Batch 7
+		//Batch 7 
 
 	}
 	// add method
@@ -33,5 +33,11 @@ public class DemoTest {
 	
 	public void subtract(int a, int b) {
 		System.out.println(a-b);
+	}
+	
+	
+	
+	public void devBrnachTest() {
+		System.out.println("This is coming from dev branch....");
 	}
 }
